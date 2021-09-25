@@ -1,0 +1,16 @@
+/Box.class
+/Camera.class
+/Intersection.class
+/Light.class
+/Material.class
+/Matrix.class
+/Plane.class
+/Point.class
+/Primitive.class
+/Ray.class
+/RayTracer$RayTracerException.class
+/RayTracer.class
+/Scene.class
+/Sphere.class
+/Triangle.class
+/Vector.class
